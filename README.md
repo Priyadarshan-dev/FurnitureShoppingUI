@@ -46,10 +46,10 @@ task/
 ## 🚀 Getting Started
 
 # Clone the repository
-git clone https://github.com/Priyadarshan-dev/Furniture-Shopping-UI.git
+git clone https://github.com/Priyadarshan-dev/FurnitureShoppingUI.git
 
 # Navigate into the project
-cd Furniture-Shopping-UI
+cd FurnitureShoppingUI
 
 # Get Flutter packages
 flutter pub get
