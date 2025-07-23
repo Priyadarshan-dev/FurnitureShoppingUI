@@ -64,6 +64,11 @@ flutter run
 - cupertino_icons
 - circle_list (optional/future use)
 
+## 📽 UI Demo
+
+[▶ Watch the Demo]
+https://drive.google.com/file/d/1Eu7Rhg7P2wfEFXZDgLFarIXvwkDQ8yLo/view?usp=drivesdk 
+
 ## 🙋‍♂ Author
 
 - *Priyadarshan* – [GitHub](https://github.com/Priyadarshan-dev)
